@@ -35,9 +35,9 @@
 	</root>
 
 	<!-- LOG "com.baeldung*" at TRACE level -->
-	<logger name="com.sample.sbapp" level="trace" additivity="false">
+	<!-- <logger name="com.sample.sbapp" level="trace" additivity="false">
 		<appender-ref ref="RollingFile" />
 		<appender-ref ref="Console" />
-	</logger>
+	</logger> -->
 
 </configuration>
